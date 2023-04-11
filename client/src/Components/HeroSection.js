@@ -1,6 +1,7 @@
 import React from 'react'
 import '../App.css'
 import Header from './Header'
+import heroImage from '../assets/HeroImage.jpg'
 
 export default function HeroSection() {
   return (
